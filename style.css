@@ -24,6 +24,8 @@ justify-content: center;
 
 .light{
   background-color: #000;
+   border-radius: 100%;
+  position: relative;
 
 
 
