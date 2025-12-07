@@ -10,3 +10,5 @@ justify-content: center;
   align-items: center;
   min-height: 100vh;
   transition: all 0.2s ease;
+   background-color: aqua;
+}
