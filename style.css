@@ -28,6 +28,9 @@ justify-content: center;
   position: relative;
    height: 2.5rem;
   width: 2.5rem;
+    transition: all 0.2s ease;
+  margin: 0.5rem;
+}
 
 
 
