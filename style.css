@@ -45,7 +45,9 @@ justify-content: center;
   --light-color: #FC00FF;
 }
 
-
+.light.Light3 {
+  --light-color: #fffc00;
+}
 
 
 
