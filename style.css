@@ -56,4 +56,9 @@ justify-content: center;
   --light-color: orange;
 }
 
+.light.Light6 {
+  --light-color: purple;
+}
+
+
 
