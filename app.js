@@ -4,3 +4,6 @@ let active = 0;
 setInterval(()=>{
 changeColor();
 },1000);
+
+
+function changeColor(){
