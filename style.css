@@ -49,6 +49,9 @@ justify-content: center;
   --light-color: #fffc00;
 }
 
+.light.Light4 {
+  --light-color: green;
+}
 
 
 
