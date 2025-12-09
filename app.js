@@ -9,3 +9,5 @@ changeColor();
 function changeColor(){
 
   if(active > 0){
+    lights[active -1].classList.remove('active');
+  }
