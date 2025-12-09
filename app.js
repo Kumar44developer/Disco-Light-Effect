@@ -15,3 +15,4 @@ body.style.backgroundColor = getComputedStyle(lights[active]).getPropertyValue('
   
   lights[active].classList.add('active');
  if(active === lights.length -1){
+    setTimeout(()=>{
