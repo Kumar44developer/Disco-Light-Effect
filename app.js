@@ -19,3 +19,6 @@ body.style.backgroundColor = getComputedStyle(lights[active]).getPropertyValue('
        lights[active].classList.remove('active');
        active = 0;
     },900);
+   }else{
+    active++;
+  }
