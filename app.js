@@ -7,3 +7,5 @@ changeColor();
 
 
 function changeColor(){
+
+  if(active > 0){
