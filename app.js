@@ -14,3 +14,4 @@ function changeColor(){
 body.style.backgroundColor = getComputedStyle(lights[active]).getPropertyValue('--light-color');
   
   lights[active].classList.add('active');
+ if(active === lights.length -1){
