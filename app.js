@@ -12,3 +12,5 @@ function changeColor(){
     lights[active -1].classList.remove('active');
   }
 body.style.backgroundColor = getComputedStyle(lights[active]).getPropertyValue('--light-color');
+  
+  lights[active].classList.add('active');
