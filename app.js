@@ -22,3 +22,4 @@ body.style.backgroundColor = getComputedStyle(lights[active]).getPropertyValue('
    }else{
     active++;
   }
+  }
