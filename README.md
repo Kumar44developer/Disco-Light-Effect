@@ -29,10 +29,10 @@ An animated, browser-based disco lighting simulator built with pure HTML, CSS, a
 
 ```
 Disco-Light-Effect/
-├── index.html       # Fixture markup containing the 6 light elements
-├── style.css        # Layout, pill housing styling, neon glow effects, and color variables
-├── app.js           # Sequence loop, DOM class toggling, and background sync logic
-└── README.md        # Project documentation
+├── index.html       
+├── style.css       
+├── app.js         
+└── README.md      
 ```
 
 ---
